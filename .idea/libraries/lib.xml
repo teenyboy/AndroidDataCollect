@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/httpclient-4.4-beta1.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/httpmime-4.4-beta1.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/fluent-hc-4.4-beta1.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/httpclient-cache-4.4-beta1.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/httpclient-win-4.4-beta1.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/jna-4.1.0.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-client-4.4-beta1/lib/jna-platform-4.1.0.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-core-4.4/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-core-4.4/lib/httpcore-4.4.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-core-4.4/lib/httpcore-ab-4.4.jar!/" />
+      <root url="jar://G:/jar/httpcomponents-core-4.4/lib/httpcore-nio-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

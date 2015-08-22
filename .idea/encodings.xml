@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/data/broadcast/APPCollectBroadCast.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/broadcast/TelephoneBroadCast.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/collect/UsrStateCollect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/configure/AppConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/db/DataContentValue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/db/DataDBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/info/AppStringInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/info/AppTimeInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/data/main/CollectService.java" charset="UTF-8" />
+  </component>
+</project>
